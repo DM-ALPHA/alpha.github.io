@@ -1,9 +1,9 @@
 ---
-title: "AxionDM - Research"
+title: "ALPHA - Detector"
 layout: textlay
-excerpt: "AxionDM -- Research"
+excerpt: "ALPHA -- Detector"
 sitemap: false
-permalink: /research/
+permalink: /detector/
 ---
 
 # Research
